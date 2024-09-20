@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Electric Tower
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c0b1630bbbb301f48afefeef4ae02ed1, type: 3}
+    - {fileID: 2800000, guid: 1d0f4884f6f69f14ea500140669ac998, type: 3}
+    - {fileID: 2800000, guid: 70068c7771835d64dabfbfde8c1189d4, type: 3}
+    - {fileID: 2800000, guid: 5ea6d1c91ca00b640ac5778b4fa5deb1, type: 3}
+    - {fileID: 2800000, guid: ed768fcd9b65c4148ad2a69036eef168, type: 3}
+    - {fileID: 2800000, guid: ee8dc607a517d7848b31829be1d20d82, type: 3}
+    - {fileID: 2800000, guid: f437b7947b3e0644c8bf152a504bed8b, type: 3}
+    - {fileID: 2800000, guid: 85e531377e1fd0444a3ba8d7d8b32533, type: 3}
+    - {fileID: 2800000, guid: f0572d5fc1b956745bc2e5fca1e07340, type: 3}
+    - {fileID: 2800000, guid: 109773c25825fd54bb367c1b3decfd3d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 109773c25825fd54bb367c1b3decfd3d: 21300000
+    - 1d0f4884f6f69f14ea500140669ac998: 21300000
+    - f437b7947b3e0644c8bf152a504bed8b: 21300000
+    - ee8dc607a517d7848b31829be1d20d82: 21300000
+    - 85e531377e1fd0444a3ba8d7d8b32533: 21300000
+    - 70068c7771835d64dabfbfde8c1189d4: 21300000
+    - 5ea6d1c91ca00b640ac5778b4fa5deb1: 21300000
+    - c0b1630bbbb301f48afefeef4ae02ed1: 21300000
+    - ed768fcd9b65c4148ad2a69036eef168: 21300000
+    - f0572d5fc1b956745bc2e5fca1e07340: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 109773c25825fd54bb367c1b3decfd3d, type: 3}
+  - {fileID: 21300000, guid: 1d0f4884f6f69f14ea500140669ac998, type: 3}
+  - {fileID: 21300000, guid: f437b7947b3e0644c8bf152a504bed8b, type: 3}
+  - {fileID: 21300000, guid: ee8dc607a517d7848b31829be1d20d82, type: 3}
+  - {fileID: 21300000, guid: 85e531377e1fd0444a3ba8d7d8b32533, type: 3}
+  - {fileID: 21300000, guid: 70068c7771835d64dabfbfde8c1189d4, type: 3}
+  - {fileID: 21300000, guid: 5ea6d1c91ca00b640ac5778b4fa5deb1, type: 3}
+  - {fileID: 21300000, guid: c0b1630bbbb301f48afefeef4ae02ed1, type: 3}
+  - {fileID: 21300000, guid: ed768fcd9b65c4148ad2a69036eef168, type: 3}
+  - {fileID: 21300000, guid: f0572d5fc1b956745bc2e5fca1e07340, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Electric Tower-Tower Electric Lv01_09
+  - Electric Tower-Tower Electric Lv01_01
+  - Electric Tower-Tower Electric Lv01_06
+  - Electric Tower-Tower Electric Lv01_05
+  - Electric Tower-Tower Electric Lv01_07
+  - Electric Tower-Tower Electric Lv01_02
+  - Electric Tower-Tower Electric Lv01_03
+  - Electric Tower-Tower Electric Lv01_00
+  - Electric Tower-Tower Electric Lv01_04
+  - Electric Tower-Tower Electric Lv01_08
+  m_RenderDataMap: {}
+  m_Tag: Electric Tower
+  m_IsVariant: 0

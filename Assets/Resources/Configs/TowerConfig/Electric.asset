@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6052bddcfc1349f2842c6ce3269585e2, type: 3}
+  m_Name: Electric
+  m_EditorClassIdentifier: 
+  <TowerImageSizeInUpgradeTowerButtonView>k__BackingField: {x: 265.6, y: 368}
+  <TowerImageOffsetInUpgradeTowerButtonView>k__BackingField: {x: 0, y: 104.3}
+  <IsHasAttackAnimation>k__BackingField: 0
+  <StartCooldown>k__BackingField: 1
+  <StartDamage>k__BackingField: 10
+  <TowerIndex>k__BackingField: 2
+  <StartUpgradingPrice>k__BackingField: 200
+  <LocalizedName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:97321d53921909a4a86d2cfa79375f95
+    m_TableEntryReference:
+      m_KeyId: 9699822030848
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <TowerPrefab>k__BackingField: {fileID: 6771955113462069287, guid: bf3c97556b09d324eba16f0d5c13d5c5, type: 3}
+  <Offset>k__BackingField: {x: 0, y: 0.2, z: 0}
+  <ShootingRadius>k__BackingField: 2
+  <MissileConfig>k__BackingField:
+    <FlyingTime>k__BackingField: 0.1
+    <IsRotateMissileToGoal>k__BackingField: 0
+    <MissilePrefab>k__BackingField: {fileID: 2142870908808203385, guid: be79506c34b34934cb5da7215c176e31, type: 3}
+    <Sound>k__BackingField: {fileID: 8300000, guid: 11f5241bf2d77594d8a97cf12739ab21, type: 3}
+  <TowerConfigs>k__BackingField:
+  - <MinimumLevel>k__BackingField: 0
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: c0b1630bbbb301f48afefeef4ae02ed1, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: 2a6147c30fb24c247896eba6f5759be4, type: 2}
+  - <MinimumLevel>k__BackingField: 25
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: c3df2ecccc430ba45bb7f826cc1ac04b, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: aac24c72ef15c054fb74f650766bfe0b, type: 2}
+  - <MinimumLevel>k__BackingField: 50
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: bf35e1d355e170048b7dfabc8268f136, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: 291f890aae868f24a9731678964bc05b, type: 2}
+  - <MinimumLevel>k__BackingField: 75
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: 27b783e84fc6f70429f0bafc5c200e02, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: b1151b1af1c5deb4caea0961e79ce5ff, type: 2}
+  - <MinimumLevel>k__BackingField: 100
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: 5e13ab8f3dc9d5043903bc59396b75eb, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: a81f264342f38bb4c856a0d7e75c0c72, type: 2}
+  references:
+    version: 2
+    RefIds: []

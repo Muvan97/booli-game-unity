@@ -1,0 +1,23 @@
+Index: Assets/Scripts/Infrastructure/Services/SaveLoad/LoadingDataService.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Assets/Scripts/Infrastructure/Services/SaveLoad/LoadingDataService.cs	(date 1724338134229)
++++ Assets/Scripts/Infrastructure/Services/SaveLoad/LoadingDataService.cs	(date 1724338134229)
+@@ -83,12 +83,13 @@
+         private void RemoveExtraData(GameData gameData, IEnumerable<int> allDataIndexes,
+             IEnumerable<int> allConfigsIndexes)
+         {
+-            var extraDataIndexes = allDataIndexes.Except(allConfigsIndexes);
++            var extraDataIndexes = allDataIndexes.Where(dataIndex => !allConfigsIndexes.Contains(dataIndex));
+             gameData.TowerUpgradeData.RemoveAll(upgradeData => extraDataIndexes.Contains(upgradeData.Index));
+ 
+             gameDataProviderAndSaverService.GameData.TowerUpgradeData.ForEach(d => Debug.Log(d.Index));
+             
+-           
++            gameDataProviderAndSaverService.GameData.TowerUpgradeData =
++                gameDataProviderAndSaverService.GameData.TowerUpgradeData.Distinct().ToList();
+         }
+ 
+         protected abstract UniTask LoadGameData();

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5799b2d93d41449385da2df0ecb0ad91, type: 3}
+  m_Name: Bomber
+  m_EditorClassIdentifier: 
+  <TowerImageSizeInUpgradeTowerButtonView>k__BackingField: {x: 310, y: 310}
+  <TowerImageOffsetInUpgradeTowerButtonView>k__BackingField: {x: 0, y: 95}
+  <IsHasAttackAnimation>k__BackingField: 1
+  <StartCooldown>k__BackingField: 1
+  <StartDamage>k__BackingField: 10
+  <TowerIndex>k__BackingField: 1
+  <StartUpgradingPrice>k__BackingField: 200
+  <LocalizedName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:97321d53921909a4a86d2cfa79375f95
+    m_TableEntryReference:
+      m_KeyId: 9690191908864
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <TowerPrefab>k__BackingField: {fileID: 6771955113462069287, guid: 8871e3805dc78a64d89e01d223b4a7f4, type: 3}
+  <Offset>k__BackingField: {x: 0, y: 0.1, z: 0}
+  <ShootingRadius>k__BackingField: 2
+  <MissileConfig>k__BackingField:
+    <FlyingTime>k__BackingField: 1
+    <IsRotateMissileToGoal>k__BackingField: 0
+    <MissilePrefab>k__BackingField: {fileID: 3312163655395089340, guid: a3bb0b9992ee10949a89979618824935, type: 3}
+    <Sound>k__BackingField: {fileID: 8300000, guid: b9cee591db27f1b408f57f0dd50c811b, type: 3}
+    <FlyingHeightOnShoot>k__BackingField: 2
+    <TimeAfterExplosionStartBeforeDestroy>k__BackingField: 0.5
+  <TowerConfigs>k__BackingField:
+  - <MinimumLevel>k__BackingField: 0
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: b7f836c0de280d442a984f486e451d01, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: 77cb07ea95cd4994bb0f0f41dce71659, type: 2}
+    <BombDamagingRadius>k__BackingField: 2
+  - <MinimumLevel>k__BackingField: 25
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: a30e93dfcbdc4e8498829be409de19a9, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: 57416325c90bbcd49bf682f1074901fb, type: 2}
+    <BombDamagingRadius>k__BackingField: 2
+  - <MinimumLevel>k__BackingField: 50
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: a00d0656b75d07d44ab745c5112ab7e3, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: e88debeb603c8ac42b4be1367ced080c, type: 2}
+    <BombDamagingRadius>k__BackingField: 2
+  - <MinimumLevel>k__BackingField: 75
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: bb38cb6d664ab0747b51d3770340cd89, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: 95deb70184225c5478a8b858ef323378, type: 2}
+    <BombDamagingRadius>k__BackingField: 2
+  - <MinimumLevel>k__BackingField: 100
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: 06e16764b12e75746a962cb9c7bfa13d, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: 6779fcb47e21c9a448cda5915a2ef1dc, type: 2}
+    <BombDamagingRadius>k__BackingField: 2
+  <BombExplosionRadius>k__BackingField: 2
+  references:
+    version: 2
+    RefIds: []

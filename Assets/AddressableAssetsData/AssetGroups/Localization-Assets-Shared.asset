@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 795b83c2c3adb5347abdd6af155111aa
+  m_SerializeEntries:
+  - m_GUID: e7d397d5d3605074d9a24530be9ed0a0
+    m_Address: Assets/Localization/MainMenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dcb1897e5e561d448318fd476a4b3a1
+    m_Address: Assets/Localization/Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eb7664c60bb8574e86cbe53ebe23aea
+    m_Address: Assets/Localization/DefeatPopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdb53ba606deae148923eec1c7d47501
+    m_Address: Assets/Localization/LevelPopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a4049160dabcd24c9889412f2d29be2
+    m_Address: Assets/Localization/ShopPopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97321d53921909a4a86d2cfa79375f95
+    m_Address: Assets/Localization/TowerUpgradePopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a2fcab8b09267748a359cd3b2918171
+    m_Address: Assets/Localization/DesktopPopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a295fb0473f76d4b9eba39d5c4ad3ec
+    m_Address: Assets/Localization/FriendsPopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78aab73726539c241b246c44904e7d14
+    m_Address: Assets/Localization/SelectedTonWalletConnectionPopupView Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a73006f68f2953c4dba7428768b0bf31
+    m_Address: Assets/Localization/ChoosingTonWalletPopupView Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60225cd3ac82c7e469fd6013ebab1b1e
+    m_Address: Assets/Localization/WithdrawBooliPopup Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b69fef8145fa4934597a17afb9ace71d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 33dce0aea4231544abc585106a37f07e, type: 2}
+    - {fileID: 11400000, guid: e0b033ac28bdc1c419bfbd61e9a8c0b5, type: 2}

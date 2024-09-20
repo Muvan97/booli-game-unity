@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: FriendsPopup_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9a295fb0473f76d4b9eba39d5c4ad3ec, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12879810560
+    m_Localized: Refferal System
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198855249920
+    m_Localized: Invite your friends and earn $Booli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1270986461184
+    m_Localized: Bonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8770712391680
+    m_Localized: Invite a friend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10234763563008
+    m_Localized: 'List of invited friends:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5218650754797568
+    m_Localized: for each friend you bring.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5218792086065152
+    m_Localized: for each of your active referrals.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

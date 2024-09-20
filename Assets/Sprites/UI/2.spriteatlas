@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b65759742eb21f74caf8576bb94c30b8, type: 3}
+    - {fileID: 2800000, guid: 7f2be2d254226e0499e6889155342ae7, type: 3}
+    - {fileID: 2800000, guid: 88bb9090d99d07c469362799b1d3b257, type: 3}
+    - {fileID: 2800000, guid: 80dc6c2afd4d72846b19aba35f95c135, type: 3}
+    - {fileID: 2800000, guid: 94595b63fef84fc408d4b6fa1eeb1fca, type: 3}
+    - {fileID: 2800000, guid: fa67328fa380df64b85a90072839497b, type: 3}
+    - {fileID: 2800000, guid: c452f36a8dacebd4c96f9054c16be6e0, type: 3}
+    - {fileID: 2800000, guid: fc3a18e54c4d7234896b1fc215d8874a, type: 3}
+    - {fileID: 2800000, guid: fac103e0592c93149ae91f4fc5cd24e6, type: 3}
+    - {fileID: 2800000, guid: a1718ff4f6b83b348b6aa1b9e2e35b3f, type: 3}
+    - {fileID: 2800000, guid: 0a260c65fb132154094944d3026b76c2, type: 3}
+    - {fileID: 2800000, guid: 0732d8d981eb18240a6481c80bebabd4, type: 3}
+    - {fileID: 2800000, guid: 94595b63fef84fc408d4b6fa1eeb1fca, type: 3}
+    - {fileID: 2800000, guid: 254cebf877ce5934e9744b8417870e64, type: 3}
+    - {fileID: 2800000, guid: d21f7faa79cffcd4da338f896d157f50, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 88bb9090d99d07c469362799b1d3b257: 21300000
+    - fac103e0592c93149ae91f4fc5cd24e6: 21300000
+    - 7f2be2d254226e0499e6889155342ae7: 21300000
+    - 94595b63fef84fc408d4b6fa1eeb1fca: 21300000
+    - b65759742eb21f74caf8576bb94c30b8: 21300000
+    - a1718ff4f6b83b348b6aa1b9e2e35b3f: 21300000
+    - 0a260c65fb132154094944d3026b76c2: 21300000
+    - fc3a18e54c4d7234896b1fc215d8874a: 21300000
+    - 254cebf877ce5934e9744b8417870e64: 21300000
+    - 0732d8d981eb18240a6481c80bebabd4: 21300000
+    - 80dc6c2afd4d72846b19aba35f95c135: 21300000
+    - c452f36a8dacebd4c96f9054c16be6e0: 21300000
+    - d21f7faa79cffcd4da338f896d157f50: 21300000
+    - fa67328fa380df64b85a90072839497b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 88bb9090d99d07c469362799b1d3b257, type: 3}
+  - {fileID: 21300000, guid: fac103e0592c93149ae91f4fc5cd24e6, type: 3}
+  - {fileID: 21300000, guid: 7f2be2d254226e0499e6889155342ae7, type: 3}
+  - {fileID: 21300000, guid: 94595b63fef84fc408d4b6fa1eeb1fca, type: 3}
+  - {fileID: 21300000, guid: b65759742eb21f74caf8576bb94c30b8, type: 3}
+  - {fileID: 21300000, guid: a1718ff4f6b83b348b6aa1b9e2e35b3f, type: 3}
+  - {fileID: 21300000, guid: 0a260c65fb132154094944d3026b76c2, type: 3}
+  - {fileID: 21300000, guid: fc3a18e54c4d7234896b1fc215d8874a, type: 3}
+  - {fileID: 21300000, guid: 254cebf877ce5934e9744b8417870e64, type: 3}
+  - {fileID: 21300000, guid: 0732d8d981eb18240a6481c80bebabd4, type: 3}
+  - {fileID: 21300000, guid: 80dc6c2afd4d72846b19aba35f95c135, type: 3}
+  - {fileID: 21300000, guid: c452f36a8dacebd4c96f9054c16be6e0, type: 3}
+  - {fileID: 21300000, guid: d21f7faa79cffcd4da338f896d157f50, type: 3}
+  - {fileID: 21300000, guid: fa67328fa380df64b85a90072839497b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Mesa de trabajo 1@4x26
+  - PinClipart.com_link-clip-art_3739847 1
+  - Mesa de trabajo 1@4x11
+  - Rectangle 99 (1)
+  - Mesa de trabajo 1@4x10
+  - Rectangle
+  - Rectangle 2
+  - Mesa de trabajo 1@4xup2 3
+  - Sound
+  - Rectangle 99
+  - Mesa de trabajo 1@4x26 1
+  - Mesa de trabajo 1@4xup2
+  - soundOff
+  - Mesa de trabajo 1@4x255
+  m_RenderDataMap: {}
+  m_Tag: 2
+  m_IsVariant: 0

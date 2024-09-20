@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ded666ae26040eb92d6378e130bed87, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  <TonWalletConfig>k__BackingField:
+    <WithdrawalFeeInTon>k__BackingField: 0.5
+    <TargetWalletAddress>k__BackingField: UQAHoe_mzjhztq1k5KggxHj3bz1U9S8N1Bf_k78LdcO7BaGi
+    <CorrectSendingStateColor>k__BackingField: {r: 0.20392157, g: 0.85882354, b: 0, a: 1}
+    <IncorrectSendingStateColor>k__BackingField: {r: 0.8509804, g: 0, b: 0, a: 1}
+  <RewardsForRefferalsConfig>k__BackingField:
+    <BonusInCoins>k__BackingField: 2000
+    <BonusInBooli>k__BackingField: 300
+    <NumberOpenedLevelsForGiveBonusForRefferal>k__BackingField: 5
+  <CoinPurchaseButtonConfigs>k__BackingField:
+  - <NumberMoney>k__BackingField: 100000
+    <NumberBonusMoney>k__BackingField: 0
+    <Price>k__BackingField: 69
+    <ItemIndex>k__BackingField: 0
+    <ItemDescription>k__BackingField: ' '
+  - <NumberMoney>k__BackingField: 250000
+    <NumberBonusMoney>k__BackingField: 100000
+    <Price>k__BackingField: 159
+    <ItemIndex>k__BackingField: 1
+    <ItemDescription>k__BackingField: ' '
+  - <NumberMoney>k__BackingField: 500000
+    <NumberBonusMoney>k__BackingField: 200000
+    <Price>k__BackingField: 309
+    <ItemIndex>k__BackingField: 2
+    <ItemDescription>k__BackingField: ' '
+  - <NumberMoney>k__BackingField: 1000000
+    <NumberBonusMoney>k__BackingField: 300000
+    <Price>k__BackingField: 609
+    <ItemIndex>k__BackingField: 3
+    <ItemDescription>k__BackingField: ' '
+  - <NumberMoney>k__BackingField: 2500000
+    <NumberBonusMoney>k__BackingField: 500000
+    <Price>k__BackingField: 1509
+    <ItemIndex>k__BackingField: 4
+    <ItemDescription>k__BackingField: ' '
+  - <NumberMoney>k__BackingField: 5000000
+    <NumberBonusMoney>k__BackingField: 1000000
+    <Price>k__BackingField: 3009
+    <ItemIndex>k__BackingField: 5
+    <ItemDescription>k__BackingField: ' '
+  <BuildingTowerConfigs>k__BackingField:
+  - <TowerConfig>k__BackingField: {fileID: 11400000, guid: 50987ff952195044387ca8973196e9fb, type: 2}
+    <Sprite>k__BackingField: {fileID: 21300000, guid: cacfcea43c8c4474a865850ede2abbb2, type: 3}
+  - <TowerConfig>k__BackingField: {fileID: 11400000, guid: 23f7c9c23d276f74c8884d3309fc17e7, type: 2}
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 3063038935bdc9540bb4ef4747a4f7e6, type: 3}
+  - <TowerConfig>k__BackingField: {fileID: 11400000, guid: d200f3005cab8844a940ab3313049701, type: 2}
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 560944f1404256a4a826b4523755652e, type: 3}
+  - <TowerConfig>k__BackingField: {fileID: 11400000, guid: d9a3da621cd587249976907f918e1a4b, type: 2}
+    <Sprite>k__BackingField: {fileID: 21300000, guid: a6e2c7ad67abf4f4185494f87129ae28, type: 3}
+  <LevelsConfig>k__BackingField:
+    <TimeAfterWinBeforeOpenMainMenu>k__BackingField: 5
+    <TimeAfterKillBossBeforeShowWinPopup>k__BackingField: 2
+    <TimeBeforeStartFirstWave>k__BackingField: 5
+    <NumberEnemiesWhoEndedPathBeforeShowDefeatPopup>k__BackingField: 10
+    <NumberLifeWhichBossTakesAway>k__BackingField: 5
+    <NumberLifeWhichNotBossTakesAway>k__BackingField: 1
+    <EnemyHealthMultiplierPerWave>k__BackingField: 1.2
+    <BossHealthMultiplierPerWave>k__BackingField: 1.25
+    <RewardForKillEnemyMultiplierPerWave>k__BackingField: 1
+    <LevelConfigs>k__BackingField:
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+    - {fileID: 11400000, guid: 6a8573e55a665a44aa96b9a5228afa0c, type: 2}
+  <TowersConfig>k__BackingField: {fileID: 11400000, guid: 9a7da49a07391944dbe5a6c973e20fd3, type: 2}
+  <AnimationsConfigs>k__BackingField:
+    <EarnedBooliTextAnimation>k__BackingField:
+      <Duration>k__BackingField: 1
+      <OffsetY>k__BackingField: 1
+  <AudioMixerConfigs>k__BackingField:
+  - <AudioMixer>k__BackingField: {fileID: 24100000, guid: af164eae5a718584eaaebc22e357aa66, type: 2}
+    <AudioMixerType>k__BackingField: 0
+  - <AudioMixer>k__BackingField: {fileID: 24100000, guid: 8c1f5e6e6283f8d48b3481eb40240317, type: 2}
+    <AudioMixerType>k__BackingField: 1
+  <SoundsConfig>k__BackingField:
+    <MainMenuMusicClips>k__BackingField: []
+    <LevelMusicClips>k__BackingField:
+    - {fileID: 8300000, guid: 395c2e1d0b61c6246adb8bf92985bb27, type: 3}
+    <ClickButtonSound>k__BackingField: {fileID: 8300000, guid: 96f6fd1cd31e3c84b824d3847c952f5f, type: 3}
+    <EnemyDeathSound>k__BackingField: {fileID: 8300000, guid: 4a721737ca88ad54da3113d802da10b6, type: 3}
+  <ShortNicknameLength>k__BackingField: 2
+  <PriceForUsingGameAcceleration>k__BackingField: 200
+  <StartBalance>k__BackingField: 500
+  <GameAccelerationMultiplierWhenGameAccelerationActive>k__BackingField: 2
+  <GameAccelerationMultiplierWhenGameAccelerationInactive>k__BackingField: 1
+  <DiedEnemyLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 256
+  <EnemyLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 512
+  <TowerPlaceLayerMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 2048
+  <LoadSDKType>k__BackingField: 2

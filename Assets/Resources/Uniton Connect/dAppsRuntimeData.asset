@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2492c1bd97c9824faeab0e57983bcbb, type: 3}
+  m_Name: dAppsRuntimeData
+  m_EditorClassIdentifier: 
+  <Data>k__BackingField:
+    <ProjectLink>k__BackingField: https://arendrast.github.io/Test-Bool
+    <ServerApiLink>k__BackingField: 
+    <Name>k__BackingField: Booli TD
+    <Icon>k__BackingField: {fileID: 2800000, guid: e6e33e4d05fed4a43a2e2eef61b3dd27, type: 3}

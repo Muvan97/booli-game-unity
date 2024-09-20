@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bomber Tower
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a30e93dfcbdc4e8498829be409de19a9, type: 3}
+    - {fileID: 2800000, guid: fb86492f1011f42468accac700d67912, type: 3}
+    - {fileID: 2800000, guid: cc08692cab9090044a92df87608eaabb, type: 3}
+    - {fileID: 2800000, guid: 3ea4123ea0d08d54cbf0c384b36d250e, type: 3}
+    - {fileID: 2800000, guid: b60dcc07e46afc648aa9a01762e59564, type: 3}
+    - {fileID: 2800000, guid: f537e6604312def45a2199839f83d25e, type: 3}
+    - {fileID: 2800000, guid: 4dd03900e828171469a76c37c17b1b18, type: 3}
+    - {fileID: 2800000, guid: bb584b34f8ced9644be9fa156b1c3d83, type: 3}
+    - {fileID: 2800000, guid: 12710c72dd32e9d40b3cb61d8fcd31f9, type: 3}
+    - {fileID: 2800000, guid: 5397190ca1baa9c40b29e713b15e7a4a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 4dd03900e828171469a76c37c17b1b18: 21300000
+    - f537e6604312def45a2199839f83d25e: 21300000
+    - 12710c72dd32e9d40b3cb61d8fcd31f9: 21300000
+    - bb584b34f8ced9644be9fa156b1c3d83: 21300000
+    - b60dcc07e46afc648aa9a01762e59564: 21300000
+    - 5397190ca1baa9c40b29e713b15e7a4a: 21300000
+    - cc08692cab9090044a92df87608eaabb: 21300000
+    - 3ea4123ea0d08d54cbf0c384b36d250e: 21300000
+    - fb86492f1011f42468accac700d67912: 21300000
+    - a30e93dfcbdc4e8498829be409de19a9: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4dd03900e828171469a76c37c17b1b18, type: 3}
+  - {fileID: 21300000, guid: f537e6604312def45a2199839f83d25e, type: 3}
+  - {fileID: 21300000, guid: 12710c72dd32e9d40b3cb61d8fcd31f9, type: 3}
+  - {fileID: 21300000, guid: bb584b34f8ced9644be9fa156b1c3d83, type: 3}
+  - {fileID: 21300000, guid: b60dcc07e46afc648aa9a01762e59564, type: 3}
+  - {fileID: 21300000, guid: 5397190ca1baa9c40b29e713b15e7a4a, type: 3}
+  - {fileID: 21300000, guid: cc08692cab9090044a92df87608eaabb, type: 3}
+  - {fileID: 21300000, guid: 3ea4123ea0d08d54cbf0c384b36d250e, type: 3}
+  - {fileID: 21300000, guid: fb86492f1011f42468accac700d67912, type: 3}
+  - {fileID: 21300000, guid: a30e93dfcbdc4e8498829be409de19a9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bomber Tower-Tower Bomb Lv02_Idle_06
+  - Bomber Tower-Tower Bomb Lv02_Idle_05
+  - Bomber Tower-Tower Bomb Lv02_Idle_08
+  - Bomber Tower-Tower Bomb Lv02_Idle_07
+  - Bomber Tower-Tower Bomb Lv02_Idle_04
+  - Bomber Tower-Tower Bomb Lv02_Idle_09
+  - Bomber Tower-Tower Bomb Lv02_Idle_02
+  - Bomber Tower-Tower Bomb Lv02_Idle_03
+  - Bomber Tower-Tower Bomb Lv02_Idle_01
+  - Bomber Tower-Tower Bomb Lv02_Idle_00
+  m_RenderDataMap: {}
+  m_Tag: Bomber Tower
+  m_IsVariant: 0

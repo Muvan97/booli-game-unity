@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LevelPopup Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LevelPopup
+  m_TableCollectionNameGuidString: fdb53ba606deae148923eec1c7d47501
+  m_Entries:
+  - m_Id: 4898050048
+    m_Key: Booli unhappy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 339473485824
+    m_Key: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343235776512
+    m_Key: Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116375564734464
+    m_Key: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116386713194496
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421543703367680
+    m_Key: Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1457322600845312
+    m_Key: Drag And Drop Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6473989278027776
+    m_Key: Click on the button
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 683907667624460294
+  references:
+    version: 2
+    RefIds:
+    - rid: 683907667624460294
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1724065180267

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainMenu
+  m_TableCollectionNameGuidString: e7d397d5d3605074d9a24530be9ed0a0
+  m_Entries:
+  - m_Id: 6907121664
+    m_Key: Wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2275660642013184
+    m_Key: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2275804410171392
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7187220195856384
+    m_Key: Towers
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 683907596560891912
+  references:
+    version: 2
+    RefIds:
+    - rid: 683907596560891912
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1723805233006

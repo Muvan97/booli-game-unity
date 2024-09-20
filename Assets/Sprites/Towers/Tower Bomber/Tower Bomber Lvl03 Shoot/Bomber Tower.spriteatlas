@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bomber Tower
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: fe802b988709c92488aad385bcc8b83f, type: 3}
+    - {fileID: 2800000, guid: a14081b24033ae24e84259f16c17944e, type: 3}
+    - {fileID: 2800000, guid: c6498239e5b17d642a2baace5636db8a, type: 3}
+    - {fileID: 2800000, guid: a53e962b3e9e2504ea25b3f8cf6bbf03, type: 3}
+    - {fileID: 2800000, guid: d8ca4f4a8e8a89f42818d31a00476439, type: 3}
+    - {fileID: 2800000, guid: f90aabdea4228a849a1900367e3fdee3, type: 3}
+    - {fileID: 2800000, guid: 5b0d3f1577089c245be5ffb51499ba6a, type: 3}
+    - {fileID: 2800000, guid: 7e7408eb422975d46bdc8638d23b7d98, type: 3}
+    - {fileID: 2800000, guid: e72a229e4bfded7498e0420d19fa8d65, type: 3}
+    - {fileID: 2800000, guid: f952a5d0c8ba4e345801d7cfad5feb19, type: 3}
+    - {fileID: 2800000, guid: b23866352e3ca1340a691856b79d1871, type: 3}
+    - {fileID: 2800000, guid: 29ad2b3a6764f2b4ca4bb9ef86b71fff, type: 3}
+    - {fileID: 2800000, guid: 9905b8fe6088559468a7550469e8aff5, type: 3}
+    - {fileID: 2800000, guid: 61603e81f53a02f4cb96a42a44169006, type: 3}
+    - {fileID: 2800000, guid: b9b192754edfa5142b4c4bd2dee65e3d, type: 3}
+    - {fileID: 2800000, guid: 45bba13735b0dff4e80b2b2e0978b8f3, type: 3}
+    - {fileID: 2800000, guid: 1fbc797b100a7644bba08a91f36704a2, type: 3}
+    - {fileID: 2800000, guid: d1f7c20ef22574046b45bbecdbbbb4ad, type: 3}
+    - {fileID: 2800000, guid: 58bc618c122f0144d85f395765c9851b, type: 3}
+    - {fileID: 2800000, guid: 4cedfb92693e2534386401b322430331, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - f952a5d0c8ba4e345801d7cfad5feb19: 21300000
+    - 61603e81f53a02f4cb96a42a44169006: 21300000
+    - 4cedfb92693e2534386401b322430331: 21300000
+    - a14081b24033ae24e84259f16c17944e: 21300000
+    - 5b0d3f1577089c245be5ffb51499ba6a: 21300000
+    - b23866352e3ca1340a691856b79d1871: 21300000
+    - b9b192754edfa5142b4c4bd2dee65e3d: 21300000
+    - 45bba13735b0dff4e80b2b2e0978b8f3: 21300000
+    - fe802b988709c92488aad385bcc8b83f: 21300000
+    - c6498239e5b17d642a2baace5636db8a: 21300000
+    - 29ad2b3a6764f2b4ca4bb9ef86b71fff: 21300000
+    - d8ca4f4a8e8a89f42818d31a00476439: 21300000
+    - a53e962b3e9e2504ea25b3f8cf6bbf03: 21300000
+    - 1fbc797b100a7644bba08a91f36704a2: 21300000
+    - 7e7408eb422975d46bdc8638d23b7d98: 21300000
+    - 58bc618c122f0144d85f395765c9851b: 21300000
+    - d1f7c20ef22574046b45bbecdbbbb4ad: 21300000
+    - e72a229e4bfded7498e0420d19fa8d65: 21300000
+    - f90aabdea4228a849a1900367e3fdee3: 21300000
+    - 9905b8fe6088559468a7550469e8aff5: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f952a5d0c8ba4e345801d7cfad5feb19, type: 3}
+  - {fileID: 21300000, guid: 61603e81f53a02f4cb96a42a44169006, type: 3}
+  - {fileID: 21300000, guid: 4cedfb92693e2534386401b322430331, type: 3}
+  - {fileID: 21300000, guid: a14081b24033ae24e84259f16c17944e, type: 3}
+  - {fileID: 21300000, guid: 5b0d3f1577089c245be5ffb51499ba6a, type: 3}
+  - {fileID: 21300000, guid: b23866352e3ca1340a691856b79d1871, type: 3}
+  - {fileID: 21300000, guid: b9b192754edfa5142b4c4bd2dee65e3d, type: 3}
+  - {fileID: 21300000, guid: 45bba13735b0dff4e80b2b2e0978b8f3, type: 3}
+  - {fileID: 21300000, guid: fe802b988709c92488aad385bcc8b83f, type: 3}
+  - {fileID: 21300000, guid: c6498239e5b17d642a2baace5636db8a, type: 3}
+  - {fileID: 21300000, guid: 29ad2b3a6764f2b4ca4bb9ef86b71fff, type: 3}
+  - {fileID: 21300000, guid: d8ca4f4a8e8a89f42818d31a00476439, type: 3}
+  - {fileID: 21300000, guid: a53e962b3e9e2504ea25b3f8cf6bbf03, type: 3}
+  - {fileID: 21300000, guid: 1fbc797b100a7644bba08a91f36704a2, type: 3}
+  - {fileID: 21300000, guid: 7e7408eb422975d46bdc8638d23b7d98, type: 3}
+  - {fileID: 21300000, guid: 58bc618c122f0144d85f395765c9851b, type: 3}
+  - {fileID: 21300000, guid: d1f7c20ef22574046b45bbecdbbbb4ad, type: 3}
+  - {fileID: 21300000, guid: e72a229e4bfded7498e0420d19fa8d65, type: 3}
+  - {fileID: 21300000, guid: f90aabdea4228a849a1900367e3fdee3, type: 3}
+  - {fileID: 21300000, guid: 9905b8fe6088559468a7550469e8aff5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bomber Tower-Tower Bomb Lv03_Shoot_09
+  - Bomber Tower-Tower Bomb Lv03_Shoot_13
+  - Bomber Tower-Tower Bomb Lv03_Shoot_19
+  - Bomber Tower-Tower Bomb Lv03_Shoot_01
+  - Bomber Tower-Tower Bomb Lv03_Shoot_06
+  - Bomber Tower-Tower Bomb Lv03_Shoot_10
+  - Bomber Tower-Tower Bomb Lv03_Shoot_14
+  - Bomber Tower-Tower Bomb Lv03_Shoot_15
+  - Bomber Tower-Tower Bomb Lv03_Shoot_00
+  - Bomber Tower-Tower Bomb Lv03_Shoot_02
+  - Bomber Tower-Tower Bomb Lv03_Shoot_11
+  - Bomber Tower-Tower Bomb Lv03_Shoot_04
+  - Bomber Tower-Tower Bomb Lv03_Shoot_03
+  - Bomber Tower-Tower Bomb Lv03_Shoot_16
+  - Bomber Tower-Tower Bomb Lv03_Shoot_07
+  - Bomber Tower-Tower Bomb Lv03_Shoot_18
+  - Bomber Tower-Tower Bomb Lv03_Shoot_17
+  - Bomber Tower-Tower Bomb Lv03_Shoot_08
+  - Bomber Tower-Tower Bomb Lv03_Shoot_05
+  - Bomber Tower-Tower Bomb Lv03_Shoot_12
+  m_RenderDataMap: {}
+  m_Tag: Bomber Tower
+  m_IsVariant: 0

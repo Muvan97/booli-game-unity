@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Assets</Path>
+      <Path>Packages</Path>
+      <Path>ProjectSettings</Path>
+      <Path>../../Users/Arend/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ext.nunit@1.0.6</Path>
+      <Path>../../Users/Arend/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ide.rider@3.0.31</Path>
+      <Path>../../Users/Arend/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.inputsystem@1.6.3</Path>
+      <Path>../../Users/Arend/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.localization@1.4.5</Path>
+      <Path>../../Users/Arend/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.textmeshpro@3.0.9</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>.git</Path>
+      <Path>.idea</Path>
+      <Path>Temp</Path>
+    </explicitExcludes>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BomberTower 3 lvl
+  m_Controller: {fileID: 9100000, guid: cd94cbe1ee7f7c748a57294f9585380b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 370877f5d6721664e8dcf6fcd1056a96, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 26fb5a9906a7e94488d40fb8cd161800, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5b1b9b9adf8531b42ace9a6030a18e25, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bbfe001f7010fea4396590cf95ec6800, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 592037b0111f4dc4a423b0a81efc4874, type: 3}
+  m_Name: TowersConfig
+  m_EditorClassIdentifier: 
+  <Configs>k__BackingField:
+  - {fileID: 11400000, guid: 50987ff952195044387ca8973196e9fb, type: 2}
+  - {fileID: 11400000, guid: 23f7c9c23d276f74c8884d3309fc17e7, type: 2}
+  - {fileID: 11400000, guid: d200f3005cab8844a940ab3313049701, type: 2}
+  - {fileID: 11400000, guid: d9a3da621cd587249976907f918e1a4b, type: 2}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: WithdrawBooliPopup Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: WithdrawBooliPopup
+  m_TableCollectionNameGuidString: 60225cd3ac82c7e469fd6013ebab1b1e
+  m_Entries:
+  - m_Id: 4877078528
+    m_Key: Withdraw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7859228672
+    m_Key: Number Booli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10140930048
+    m_Key: Commission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 476225603784704
+    m_Key: Sent. Wait...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 476227528970240
+    m_Key: Unsuccessful Operation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488319782899712
+    m_Key: Balance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 492324730851328
+    m_Key: Not Enough $Booli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495610691211264
+    m_Key: Incorrect Booli Amount
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5575128826541244461
+  references:
+    version: 2
+    RefIds:
+    - rid: 5575128826541244461
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1725664939713

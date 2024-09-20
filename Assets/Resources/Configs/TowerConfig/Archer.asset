@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6052bddcfc1349f2842c6ce3269585e2, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  <TowerImageSizeInUpgradeTowerButtonView>k__BackingField: {x: 145, y: 145}
+  <TowerImageOffsetInUpgradeTowerButtonView>k__BackingField: {x: 0, y: 52.4}
+  <IsHasAttackAnimation>k__BackingField: 0
+  <StartCooldown>k__BackingField: 1
+  <StartDamage>k__BackingField: 10
+  <TowerIndex>k__BackingField: 0
+  <StartUpgradingPrice>k__BackingField: 200
+  <LocalizedName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:97321d53921909a4a86d2cfa79375f95
+    m_TableEntryReference:
+      m_KeyId: 9698882506752
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <TowerPrefab>k__BackingField: {fileID: 6771955113462069287, guid: fa27c8a463d01bd4794bed59b138e140, type: 3}
+  <Offset>k__BackingField: {x: 0, y: 0, z: 0}
+  <ShootingRadius>k__BackingField: 2
+  <MissileConfig>k__BackingField:
+    <FlyingTime>k__BackingField: 0.1
+    <IsRotateMissileToGoal>k__BackingField: 1
+    <MissilePrefab>k__BackingField: {fileID: -1016483116341203618, guid: d7b474b9edf416649aec0ee9ce547e12, type: 3}
+    <Sound>k__BackingField: {fileID: 8300000, guid: 324fa12bb5d5c67429cff5fbbe1de0c0, type: 3}
+  <TowerConfigs>k__BackingField:
+  - <MinimumLevel>k__BackingField: 0
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: 7b5fbf2d7ae714e49a89e0fee28de890, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 0}
+  - <MinimumLevel>k__BackingField: 50
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: 92cf1177b15b3b34199026373ad090a7, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 0}
+  - <MinimumLevel>k__BackingField: 100
+    <TowerSprite>k__BackingField: {fileID: 21300000, guid: 4e19f0d5cd97f5e45996d3c459c1e784, type: 3}
+    <AnimatorOverrideController>k__BackingField: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

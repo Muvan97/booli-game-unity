@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UpgradeTowerPopup Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UpgradeTowerPopup
+  m_TableCollectionNameGuidString: 97321d53921909a4a86d2cfa79375f95
+  m_Entries:
+  - m_Id: 21612351488
+    m_Key: Tower Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 518503157760
+    m_Key: Level up the towers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2477851299840
+    m_Key: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3585181110272
+    m_Key: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3642932482048
+    m_Key: Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9405709045760
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9690191908864
+    m_Key: Bomber Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9694889529344
+    m_Key: Sniper Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9698882506752
+    m_Key: Archer Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9699822030848
+    m_Key: Electric Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16306228318208
+    m_Key: ShortSecond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357204082446336
+    m_Key: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5296944229535744
+    m_Key: Buy tower before attack
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 683907733641232394
+  references:
+    version: 2
+    RefIds:
+    - rid: 683907733641232394
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1724344873600
