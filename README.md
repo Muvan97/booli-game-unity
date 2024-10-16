@@ -1,5 +1,5 @@
 # Deprecated
-Пример того, как не надо делать.
-Игра - Unity WebGL, C#
-Бот - Папка _bot, .NET
-API - Папка _api, PHP
+Пример того, как не надо делать.  
+Игра - Unity WebGL, C#  
+Бот - Папка _bot, .NET  
+API - Папка _api, PHP  
