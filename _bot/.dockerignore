@@ -1,0 +1,13 @@
+bin/
+obj/
+.vscode/
+.idea/
+Dockerfile
+Makefile
+.git
+.gitignore
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.dockerignore
